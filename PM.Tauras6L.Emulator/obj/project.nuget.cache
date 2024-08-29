@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NP8Jhy1O22ve0CxNxgd2ld60xs0KrQH/2ny69rgG0JBE0vx3qcokoRE+4XZG+5acgLwDbJZbTgkZk4+ZT+XUfg==",
+  "dgSpecHash": "dxtjyIaZ8Yw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenas\\Desktop\\Новая папка (2)\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

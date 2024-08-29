@@ -85,7 +85,7 @@ namespace PM.Mixter.Services.Devices
 
                 patternTask = patternTask.Replace("<SCODEDATE>", ReportTaskService.CurrentReportTask.ManufactureDate.ToString("yyMMdd"));
                 patternTask = patternTask.Replace("<ECODEDATE>", ReportTaskService.CurrentReportTask.ExpiryDate.ToString("yyMMdd"));
-                patternTask = patternTask.Replace("<ITEMS>", Convert.ToString(ReportTaskService.CurrentReportTask.CountBoxInPallet));
+                patternTask = patternTask.Replace("<ITEMS>", Convert.ToString(Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet) * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)));
                 patternTask = patternTask.Replace("<GTIN>", ReportTaskService.CurrentReportTask.Nomenclature.Gtin);
 
                 _client.SendMessage(patternTask);

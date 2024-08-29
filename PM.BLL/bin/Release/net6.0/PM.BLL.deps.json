@@ -462,7 +462,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6"
         },
         "runtime": {
-          "PM.DAL.dll": {}
+          "PM.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

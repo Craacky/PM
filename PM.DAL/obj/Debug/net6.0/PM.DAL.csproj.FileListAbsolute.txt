@@ -22,3 +22,16 @@ C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Debug\net6.0\
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Debug\net6.0\refint\PM.DAL.dll
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.pdb
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Debug\net6.0\ref\PM.DAL.dll
+C:\Projects\PM.1MM\PM.DAL\bin\Debug\net6.0\PM.DAL.deps.json
+C:\Projects\PM.1MM\PM.DAL\bin\Debug\net6.0\PM.DAL.dll
+C:\Projects\PM.1MM\PM.DAL\bin\Debug\net6.0\PM.DAL.pdb
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.csproj.AssemblyReference.cache
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.AssemblyInfoInputs.cache
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.AssemblyInfo.cs
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.sourcelink.json
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.dll
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\refint\PM.DAL.dll
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.pdb
+C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\ref\PM.DAL.dll

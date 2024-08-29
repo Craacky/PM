@@ -10,3 +10,15 @@ C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\refint\PM.Protocols.dll
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.pdb
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\ref\PM.Protocols.dll
+C:\Projects\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.deps.json
+C:\Projects\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.dll
+C:\Projects\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.pdb
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.AssemblyInfoInputs.cache
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.AssemblyInfo.cs
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.csproj.CoreCompileInputs.cache
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.sourcelink.json
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.dll
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\refint\PM.Protocols.dll
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.pdb
+C:\Projects\PM.1MM\PM.Protocols\obj\Release\net6.0\ref\PM.Protocols.dll

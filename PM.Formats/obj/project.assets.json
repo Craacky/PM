@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -48,19 +52,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenas\\.nuget\\packages\\": {}
+    "C:\\Users\\cbxjy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenas\\Desktop\\Новая папка (2)\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
+      "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
       "projectName": "PM.Formats",
-      "projectPath": "C:\\Users\\lenas\\Desktop\\Новая папка (2)\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
-      "packagesPath": "C:\\Users\\lenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenas\\Desktop\\Новая папка (2)\\PM.1MM\\PM.Formats\\obj\\",
+      "projectPath": "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
+      "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\PM.1MM\\PM.Formats\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -80,6 +84,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -97,16 +106,31 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

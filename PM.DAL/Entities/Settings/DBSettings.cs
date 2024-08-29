@@ -82,7 +82,9 @@ namespace PM.DAL.Entities
         }
 
 
-        public string ConnectionString => IsAuthentification ? @$"Data Source={ServerName};Initial Catalog={DataBaseName}; User ID= {Login};Password= {Password};Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False;"
-            : @$"Data Source={ServerName};Initial Catalog={DataBaseName};Trusted_Connection=True;";
+
+        public string ConnectionString => IsAuthentification ? @$"Data Source={ServerName};Initial Catalog={DataBaseName}; User ID= {Login};Password= {Password};Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False;" : @"Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;";
+        //public string ConnectionString => IsAuthentification ? @$"Data Source={ServerName};Initial Catalog={DataBaseName}; User ID= {Login};Password= {Password};Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False;"
+        //    : @$"Data Source={ServerName};Initial Catalog={DataBaseName};Trusted_Connection=True;";
     }
 }

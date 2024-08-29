@@ -46,3 +46,28 @@ C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.genruntimeconfig.cache
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\ref\PM.Tauras6L.Emulator.dll
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.exe
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.deps.json
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.runtimeconfig.json
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.dll
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.pdb
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.AssemblyReference.cache
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\App.g.cs
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.cache
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.lref
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.g.resources
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfoInputs.cache
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfo.cs
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.CoreCompileInputs.cache
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.sourcelink.json
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Taura.CD99F498.Up2Date
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\refint\PM.Tauras6L.Emulator.dll
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.genruntimeconfig.cache
+C:\Projects\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\ref\PM.Tauras6L.Emulator.dll

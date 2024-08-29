@@ -10,3 +10,16 @@ C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Formats\obj\Release\n
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Formats\obj\Release\net6.0\refint\PM.Formats.dll
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.pdb
 C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Formats\obj\Release\net6.0\ref\PM.Formats.dll
+C:\Projects\PM.1MM\PM.Formats\bin\Release\net6.0\PM.Formats.deps.json
+C:\Projects\PM.1MM\PM.Formats\bin\Release\net6.0\PM.Formats.dll
+C:\Projects\PM.1MM\PM.Formats\bin\Release\net6.0\PM.Formats.pdb
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.csproj.AssemblyReference.cache
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.AssemblyInfoInputs.cache
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.AssemblyInfo.cs
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.csproj.CoreCompileInputs.cache
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.sourcelink.json
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.dll
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\refint\PM.Formats.dll
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\PM.Formats.pdb
+C:\Projects\PM.1MM\PM.Formats\obj\Release\net6.0\ref\PM.Formats.dll

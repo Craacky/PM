@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="PM.Controls.ButtonsPallet"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+               
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Styles/Button.xaml"/>
+                <ResourceDictionary Source="../../Styles/Border.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource ButtonsBorderStyle}">
+        <UniformGrid Grid.Row="0"
+                     Rows="2">
+            <Button Content="Закрыть паллету"
+                        Style="{StaticResource SecondaryButtonStyle}" 
+                        Command="{Binding ClosePalletCommand}"/>
+            <Button Content="Добавить к &#10;пред. паллете"
+                        Style="{StaticResource SecondaryButtonStyle}"
+                        Command="{Binding AddBoxesToPreviousPalletCommand}"/>
+        </UniformGrid>
+    </Border>
+</UserControl>

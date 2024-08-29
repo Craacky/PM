@@ -1,0 +1,111 @@
+﻿<UserControl x:Class="PM.Controls.ReadCameraResultTableControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"        
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Styles/ListBox.xaml"/>
+                <ResourceDictionary Source="../Styles/TextBlock.xaml"/>
+                <ResourceDictionary Source="../Styles/Border.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource ControlBorderStyle}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0"
+                    Style="{StaticResource TableHeaderBorderStyle}">
+                <Grid>
+                    <Grid.Resources>
+                        <Style TargetType="TextBlock" BasedOn="{StaticResource HeaderTeableTextBlockStyle}">
+                        </Style>
+                    </Grid.Resources>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0.5*"/>
+                        <ColumnDefinition Width="0.5*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0"
+                               Text="Дата/Время&#10;создания"/>
+                    <TextBlock Grid.Column="1"
+                               Text="Камера считывания короба"/>
+                    <TextBlock Grid.Column="2"
+                               Text="Камера считывания продукта (slave)"/>
+                    <TextBlock Grid.Column="3"
+                               Text="Камера считывания продукта (master)"/>
+                </Grid>
+            </Border>
+
+            <Border Grid.Row="1">
+                <ListBox ItemsSource="{Binding ReportTaskService.Statistic.CameraReadingResults, UpdateSourceTrigger=PropertyChanged}"
+                         Style="{StaticResource ListBoxStyle}"
+                         Width="{Binding RelativeSource={RelativeSource Mode=TemplatedParent},Path=ActualWidth, UpdateSourceTrigger=PropertyChanged}">
+
+                    <ListBox.ItemContainerStyle>
+                        <Style TargetType="ListBoxItem" BasedOn="{StaticResource ListBoxItemStyle}">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="ListBoxItem">
+                                        <Border Background="{TemplateBinding Background}"
+                                                BorderBrush="{TemplateBinding BorderBrush}"
+                                                BorderThickness="{TemplateBinding BorderThickness}"
+                                                Padding="{TemplateBinding Padding}"
+                                                Width="{Binding RelativeSource={RelativeSource Mode=TemplatedParent},Path=ActualWidth, UpdateSourceTrigger=PropertyChanged}"
+                                                Style="{StaticResource TableBodyBorderStyle}">
+                                            <Grid>
+                                                <Grid.Resources>
+                                                    <Style TargetType="TextBlock" BasedOn="{StaticResource HeaderTextBlockStyle}">
+                                                    </Style>
+                                                </Grid.Resources>
+
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="0.5*"/>
+                                                    <ColumnDefinition/>
+                                                    <ColumnDefinition Width="0.5*"/>
+                                                    <ColumnDefinition Width="0.5*"/>
+                                                </Grid.ColumnDefinitions>
+
+                                                <TextBlock Grid.Column="0"
+                                                           Text="{Binding DateTime, UpdateSourceTrigger=PropertyChanged, FallbackValue=--.--.-- --:--:--, StringFormat=\{0:dd.MM.yy HH:mm:ss.fff\}}"
+                                                           Foreground="{TemplateBinding Foreground}"/>
+                                                <TextBlock Grid.Column="1"
+                                                           Text="{Binding BoxCameraReadingResult, UpdateSourceTrigger=PropertyChanged, FallbackValue=------}"
+                                                           Foreground="{TemplateBinding Foreground}"/>
+                                                <TextBlock Grid.Column="2"
+                                                           Text="{Binding ProductCameraSlaveReadingResult, UpdateSourceTrigger=PropertyChanged, FallbackValue=--------------}"
+                                                           Foreground="{TemplateBinding Foreground}"/>
+                                                <TextBlock Grid.Column="3"
+                                                           Text="{Binding ProductCameraMasterReadingResult, UpdateSourceTrigger=PropertyChanged, FallbackValue=----}"
+                                                           Foreground="{TemplateBinding Foreground}"
+                                                           TextWrapping="Wrap"/>
+                                            </Grid>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </ListBox.ItemContainerStyle>
+
+
+                </ListBox>
+            </Border>
+        </Grid>
+    </Border>
+</UserControl>

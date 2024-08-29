@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="PM.Controls.DevicesControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                
+             xmlns:controls="clr-namespace:PM.Controls"
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+             
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Styles/TextBlock.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Padding="5">
+        <UniformGrid Columns="{Binding Devices.Count}"
+                     Rows="1"
+                     d:DataContext="{Binding DeviceService}">
+            <controls:DeviceControl DataContext="{Binding Devices[0], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[1], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[2], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[3], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[4], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[5], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[6], UpdateSourceTrigger=PropertyChanged}"/>
+            <controls:DeviceControl DataContext="{Binding Devices[7], UpdateSourceTrigger=PropertyChanged}"/>
+        </UniformGrid>
+    </Border>
+</UserControl>

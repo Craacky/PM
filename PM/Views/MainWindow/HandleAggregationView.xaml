@@ -1,0 +1,136 @@
+﻿<UserControl x:Class="PM.Views.HandleAggregationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+             xmlns:controls="clr-namespace:PM.Controls" 
+             xmlns:navigators="clr-namespace:PM.Navigators"
+
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:HandleAggregationViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Styles/TextBlock.xaml"/>
+                <ResourceDictionary Source="../../Styles/Border.xaml"/>
+                <ResourceDictionary Source="../../Styles/Button.xaml"/>
+                <ResourceDictionary Source="../../Styles/Separator.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource ViewBorderStyle}">
+        <Border.Resources>
+            <Style TargetType="Border">
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding ReportTaskService.CurrentReportTask}" Value="{x:Null}">
+                        <Setter Property="IsEnabled" Value="False"/>
+                    </DataTrigger>
+
+                    <DataTrigger Binding="{Binding ReportTaskService.CurrentReportTask}" Value="">
+                        <Setter Property="IsEnabled" Value="False"/>
+                    </DataTrigger>
+                </Style.Triggers>
+            </Style>
+        </Border.Resources>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0"
+                       Text="Ручная агрегация"
+                       Style="{StaticResource HeaderTextBlockStyle}"/>
+            <controls:CurrentReportTaskControl Grid.Row="1" DataContext="{Binding ReportTaskService.CurrentReportTask}"/>
+
+            <Grid Grid.Row="2">
+                <Grid.Resources>
+                    <Style TargetType="Grid">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ReportTaskService.CurrentReportTask}" Value="{x:Null}">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+
+                            <DataTrigger Binding="{Binding ReportTaskService.CurrentReportTask}" Value="">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Grid.Resources>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Grid.Column="0" Style="{StaticResource ButtonsBorderStyle}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="0.3*"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition Height="0.3*"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition Height="0.3*"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Button Grid.Row="0" Content="Проверить код"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.CheckCodeView}"/>
+
+                        <Separator Grid.Row="1"  Style="{StaticResource SeparatorStyle}"
+                                   VerticalAlignment="Center"
+                                   Margin="10"/>
+                        <Button Grid.Row="2" Content="Добавить продукт"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.AddProductView}"/>
+                        <Button Grid.Row="3"  Content="Удалить продукт"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.DeleteProductView}"/>
+                        <Separator Grid.Row="4" Style="{StaticResource SeparatorStyle}"
+                                    VerticalAlignment="Center"
+                                   Margin="10"/>
+
+                        <Button Grid.Row="5" Content="Добавить короб"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.AddBoxView}"/>
+                        <Button Grid.Row="6" Content="Удалить короб"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.DeleteBoxView}"/>
+                        <Separator Grid.Row="7" Style="{StaticResource SeparatorStyle}"
+                                    VerticalAlignment="Center"
+                                   Margin="10"/>
+
+                        <Button Grid.Row="8" Content="Добавить паллету"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.AddPalletView}"/>
+                        <Button Grid.Row="9" Content="Удалить паллету"
+                                Style="{StaticResource SecondaryButtonStyle}"
+                                Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                CommandParameter="{x:Static navigators:HandleAggregationViewType.DeletePalletView}"/>
+                    </Grid>
+                </Border>
+
+                <Border Grid.Column="1" Style="{StaticResource ControlBorderStyle}">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <ContentControl Content="{Binding Navigator.CurrentViewModel}"/>
+                    </ScrollViewer>
+                </Border>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

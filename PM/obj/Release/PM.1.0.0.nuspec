@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PM</id>
+    <version>1.0.0</version>
+    <authors>PM</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="PM.BLL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="PM.DAL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="PM.Formats" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="PM.Protocols" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Release\net6.0-windows\PM.dll" target="lib\net6.0-windows7.0\PM.dll" />
+  </files>
+</package>

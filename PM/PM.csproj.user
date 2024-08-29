@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\lenas\Desktop\Новая папка %282%29\PM.1MM\PM\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\ErrorsTableControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\MainWindowMenuControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\TaskHistoryTableControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\ReadCameraResultTableControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\Settings\CameraSettingsControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\Settings\DataBaseSettingsControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\Settings\PrinterSettingsControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\Settings\SettingsMenuControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWindow\ErrorsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWindow\TaskHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\CamerasSettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\DataBasesSettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\LineSettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\PrintersSettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainWindow\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Controls\CloseWindowButtonControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\CurrentReportTaskControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\ErrorsTableControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\BoxStatisticControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\ButtonsPallet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\CurrentPalletStatisticControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\DeviceControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\DevicesControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\PalletStatisticControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainView\ProductStatisticControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\MainWindowMenuControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\TaskHistoryTableControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\ReadCameraResultTableControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\ReportTasks\ReportTasksButtonsControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\ReportTasks\ReportTasksTableControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\Settings\CameraSettingsControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\Settings\DataBaseSettingsControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\Settings\PrinterSettingsControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\Settings\SettingsMenuControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Border.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Common.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Label.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ListBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Separator.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationAddBoxView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationAddPalletView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationAddProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationCheckCodeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationDeleteBoxView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationDeletePalletView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HandleAggregation\HandleAggregationDeleteProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\ErrorsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\HandleAggregationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\TaskHistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\ReportTasksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\CamerasSettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\DataBasesSettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\LineSettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\PrintersSettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow\SettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\CreateReportTaskWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

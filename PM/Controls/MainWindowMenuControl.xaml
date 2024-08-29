@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="PM.Controls.MainWindowMenuControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+             xmlns:navigators="clr-namespace:PM.Navigators"
+             
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:MainWindowViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Styles/Border.xaml"/>
+                <ResourceDictionary Source="../Styles/Button.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style TargetType="RadioButton" BasedOn="{StaticResource MainWindowMenuRadioButtonStyle}"></Style>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource MainWindowMenuControlBorderStyle}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0"
+                    Style="{StaticResource MainWindowMenuBorderStyle}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <UniformGrid Rows="7"
+                                 Grid.Row="0">
+                        <RadioButton Content="Главная"
+                                     Tag="&#xF0E2;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.MainView}"/>
+                        <RadioButton Content="Задания"
+                                     Tag="&#xE932;"
+                                     IsChecked="True"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.ReportTasksView}"/>
+                        <RadioButton Content="Агрегация&#10;разагрегация"
+                                     Tag="&#xEE6F;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.HandleAggregationView}"/>
+                        <RadioButton Content="События"
+                                     Tag="&#xE783;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     IsEnabled="False"
+                                     Visibility="Collapsed"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.EventsView}"/>
+                        <RadioButton Content="Печать"
+                                     Tag="&#xE749;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     IsEnabled="False"
+                                     Visibility="Collapsed"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.PrinterView}"/>
+                        <RadioButton Content="История&#10;заданий"        
+                                     Tag="&#xE8FD;"
+                                      Visibility="Collapsed"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.TaskHistoryView}"/>
+                        <RadioButton Tag="&#xE783;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.ErrorsView}">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="auto"/>
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Ошибки" Grid.Column="0"/>
+                                <TextBlock Text="{Binding Path=ErrorsService.Errors.Count, UpdateSourceTrigger=PropertyChanged}" 
+                                           Grid.Column="1"
+                                           Margin="10 0 0 0"
+                                           HorizontalAlignment="Right" Foreground="red"/>
+                            </Grid>
+                        </RadioButton>
+                        <RadioButton Content="Настройки"
+                                     Tag="&#xE713;"
+                                     Command="{Binding Navigator.UpdateCurrentViewModelCommand}"
+                                     CommandParameter="{x:Static navigators:MainWindowViewType.SettingsView}"/>
+                    </UniformGrid>
+                </Grid>
+            </Border>
+
+            <Button Grid.Row="1"
+                    Content="Выход"
+                    Command="{Binding CloseWindowCommand}"
+                    Style="{StaticResource MainWindowMenuCloseButtonStyle}"/>
+        </Grid>
+    </Border>
+</UserControl>

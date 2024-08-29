@@ -1,0 +1,20 @@
+﻿PM
+
+
+library
+C#
+.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Release\net6.0-windows\
+PM
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+
+46-1890231495
+
+801725856980
+2282121196141
+Controls\CloseWindowButtonControl.xaml;Controls\CurrentReportTaskControl.xaml;Controls\ErrorsTableControl.xaml;Controls\MainView\BoxStatisticControl.xaml;Controls\MainView\ButtonsPallet.xaml;Controls\MainView\CurrentPalletStatisticControl.xaml;Controls\MainView\DeviceControl.xaml;Controls\MainView\DevicesControl.xaml;Controls\MainView\PalletStatisticControl.xaml;Controls\MainView\ProductStatisticControl.xaml;Controls\MainWindowMenuControl.xaml;Controls\NomenclaturesTableControl.xaml;Controls\ReadCameraResultTableControl.xaml;Controls\ReportTasks\ReportTasksButtonsControl.xaml;Controls\ReportTasks\ReportTasksTableControl.xaml;Controls\Settings\CameraSettingsControl.xaml;Controls\Settings\DataBaseSettingsControl.xaml;Controls\Settings\PrinterSettingsControl.xaml;Controls\Settings\SettingsMenuControl.xaml;Styles\Border.xaml;Styles\Button.xaml;Styles\Common.xaml;Styles\Label.xaml;Styles\ListBox.xaml;Styles\Separator.xaml;Styles\TextBlock.xaml;Styles\TextBox.xaml;Views\HandleAggregation\HandleAggregationAddBoxView.xaml;Views\HandleAggregation\HandleAggregationAddPalletView.xaml;Views\HandleAggregation\HandleAggregationAddProductView.xaml;Views\HandleAggregation\HandleAggregationCheckCodeView.xaml;Views\HandleAggregation\HandleAggregationDeleteBoxView.xaml;Views\HandleAggregation\HandleAggregationDeletePalletView.xaml;Views\HandleAggregation\HandleAggregationDeleteProductView.xaml;Views\MainWindow\ErrorsView.xaml;Views\MainWindow\HandleAggregationView.xaml;Views\MainWindow\MainView.xaml;Views\MainWindow\NomenclaturesView.xaml;Views\MainWindow\ReportTasksView.xaml;Views\MainWindow\SettingsView.xaml;Views\Settings\CamerasSettingsView.xaml;Views\Settings\DataBasesSettingsView.xaml;Views\Settings\LineSettingsView.xaml;Views\Settings\PrintersSettingsView.xaml;Windows\CreateReportTaskWindow.xaml;Windows\MainWindow.xaml;
+
+False
+

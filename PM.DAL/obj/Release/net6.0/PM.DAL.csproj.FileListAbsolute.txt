@@ -1,0 +1,12 @@
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\bin\Release\net6.0\PM.DAL.deps.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\bin\Release\net6.0\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\bin\Release\net6.0\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\refint\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.DAL\obj\Release\net6.0\ref\PM.DAL.dll

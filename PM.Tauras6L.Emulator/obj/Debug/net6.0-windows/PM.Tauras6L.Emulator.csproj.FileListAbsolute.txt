@@ -1,0 +1,48 @@
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.exe
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.deps.json
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.runtimeconfig.json
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.lref
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.g.resources
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\refint\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.genruntimeconfig.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\ref\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.exe
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.deps.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.runtimeconfig.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\bin\Debug\net6.0-windows\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator_MarkupCompile.lref
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.g.resources
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\refint\PM.Tauras6L.Emulator.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\PM.Tauras6L.Emulator.genruntimeconfig.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Tauras6L.Emulator\obj\Debug\net6.0-windows\ref\PM.Tauras6L.Emulator.dll

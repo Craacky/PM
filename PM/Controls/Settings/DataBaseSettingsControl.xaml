@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="PM.Controls.DataBaseSettingsControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+               
+             xmlns:entities="clr-namespace:PM.DAL.Entities;assembly=PM.DAL"
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:DataBasesSettingsViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Styles/Common.xaml"/>
+                <ResourceDictionary Source="../../Styles/Border.xaml"/>
+                <ResourceDictionary Source="../../Styles/TextBlock.xaml"/>
+                <ResourceDictionary Source="../../Styles/TextBox.xaml"/>
+                <ResourceDictionary Source="../../Styles/Button.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style TargetType="TextBlock" BasedOn="{StaticResource HeaderFieldTextBlockStyle}"></Style>
+            <Style TargetType="TextBox" BasedOn="{StaticResource TextBoxStyle}"></Style>
+            <Style TargetType="Button" BasedOn="{StaticResource ChoosePathButtonStyle}">
+            </Style>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource ControlBorderStyle}">
+        <StackPanel d:DataContext="{d:DesignInstance Type=entities:DBSettings, IsDesignTimeCreatable=False}">
+            <Border Style="{StaticResource TableHeaderBorderStyle}">
+                <StackPanel>
+                    <TextBlock Text="{Binding Name,UpdateSourceTrigger=PropertyChanged }"
+                           Style="{StaticResource HeaderBodyTextBlockStyle}"/>
+                </StackPanel>
+            </Border>
+
+            <StackPanel>
+                <CheckBox Content="Использовать" IsChecked="{Binding IsUsed, UpdateSourceTrigger=PropertyChanged}"
+                      Style="{StaticResource CheckBoxStyle}"/>
+            </StackPanel>
+
+            <StackPanel IsEnabled="{Binding IsUsed, UpdateSourceTrigger=PropertyChanged}">
+                <TextBlock Text="Адрес сервера"/>
+                <TextBox Text="{Binding ServerName,UpdateSourceTrigger=PropertyChanged }"/>
+            </StackPanel>
+
+            <StackPanel IsEnabled="{Binding IsUsed, UpdateSourceTrigger=PropertyChanged}">
+                <TextBlock Text="Имя базы данных"/>
+                <TextBox Text="{Binding DataBaseName,UpdateSourceTrigger=PropertyChanged }"/>
+            </StackPanel>
+
+            <StackPanel IsEnabled="{Binding IsUsed, UpdateSourceTrigger=PropertyChanged}">
+                <CheckBox Content="Аутентификация"
+                          IsChecked="{Binding IsAuthentification, UpdateSourceTrigger=PropertyChanged}"
+                          Style="{StaticResource CheckBoxStyle}"/>
+
+                <StackPanel IsEnabled="{Binding IsAuthentification, UpdateSourceTrigger=PropertyChanged}"
+                            Margin="40 0 0 0">
+                    <StackPanel>
+                        <TextBlock Text="Логин"/>
+                        <TextBox Text="{Binding Login,UpdateSourceTrigger=PropertyChanged }"/>
+                    </StackPanel>
+
+                    <StackPanel>
+                        <TextBlock Text="Пароль"/>
+                        <TextBox Text="{Binding Password,UpdateSourceTrigger=PropertyChanged }"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</UserControl>

@@ -1,0 +1,214 @@
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.deps.json
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Formats.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Formats.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CloseWindowButtonControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CurrentReportTaskControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Border.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Label.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\ListBox.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Separator.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\TextBlock.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\TextBox.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CloseWindowButtonControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CurrentReportTaskControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\BoxStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ButtonsPallet.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\CurrentPalletStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DeviceControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DevicesControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\PalletStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ProductStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainWindowMenuControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\NomenclaturesTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReadCameraResultTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksButtonsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\CameraSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\DataBaseSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\PrinterSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\SettingsMenuControl.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddBoxView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddPalletView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddProductView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationCheckCodeView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteBoxView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeletePalletView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteProductView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\HandleAggregationView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\MainView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\NomenclaturesView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ReportTasksView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\SettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\CamerasSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\DataBasesSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\LineSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\PrintersSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\CreateReportTaskWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM_MarkupCompile.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM_MarkupCompile.lref
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\BoxStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ButtonsPallet.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\CurrentPalletStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DeviceControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DevicesControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\PalletStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ProductStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainWindowMenuControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\NomenclaturesTableControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReadCameraResultTableControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksButtonsControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksTableControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\CameraSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\DataBaseSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\PrinterSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\SettingsMenuControl.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Common.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddBoxView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddPalletView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddProductView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationCheckCodeView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteBoxView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeletePalletView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteProductView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\HandleAggregationView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\MainView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\NomenclaturesView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ReportTasksView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\SettingsView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\CamerasSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\DataBasesSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\LineSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\PrintersSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\CreateReportTaskWindow.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.g.resources
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\refint\PM.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\PM.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM\obj\Debug\net6.0-windows\ref\PM.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.deps.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Formats.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Formats.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\bin\Debug\net6.0-windows\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CloseWindowButtonControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CurrentReportTaskControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Border.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Label.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\ListBox.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Separator.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\TextBlock.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\TextBox.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CloseWindowButtonControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\CurrentReportTaskControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\BoxStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ButtonsPallet.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\CurrentPalletStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DeviceControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DevicesControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\PalletStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ProductStatisticControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainWindowMenuControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReadCameraResultTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksButtonsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\CameraSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\DataBaseSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\PrinterSettingsControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\SettingsMenuControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddBoxView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddPalletView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddProductView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationCheckCodeView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteBoxView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeletePalletView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteProductView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\HandleAggregationView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\MainView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ReportTasksView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\SettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\CamerasSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\DataBasesSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\LineSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\PrintersSettingsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\CreateReportTaskWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM_MarkupCompile.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM_MarkupCompile.lref
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\BoxStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ButtonsPallet.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\CurrentPalletStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DeviceControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\DevicesControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\PalletStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainView\ProductStatisticControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\MainWindowMenuControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReadCameraResultTableControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksButtonsControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ReportTasks\ReportTasksTableControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\CameraSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\DataBaseSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\PrinterSettingsControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\Settings\SettingsMenuControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Styles\Common.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddBoxView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddPalletView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationAddProductView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationCheckCodeView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteBoxView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeletePalletView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\HandleAggregation\HandleAggregationDeleteProductView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\HandleAggregationView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\MainView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ReportTasksView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\SettingsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\CamerasSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\DataBasesSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\LineSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\Settings\PrintersSettingsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\CreateReportTaskWindow.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.g.resources
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\refint\PM.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\PM.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\ref\PM.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ErrorsTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ErrorsView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\ErrorsTableControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\ErrorsView.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\TaskHistoryView.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\TaskHistoryTableControl.g.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Controls\TaskHistoryTableControl.baml
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM\obj\Debug\net6.0-windows\Views\MainWindow\TaskHistoryView.baml

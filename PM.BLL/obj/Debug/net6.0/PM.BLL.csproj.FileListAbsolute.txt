@@ -1,0 +1,30 @@
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.deps.json
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\refint\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка\PM.1MM\PM.BLL\obj\Debug\net6.0\ref\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.deps.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.DAL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\bin\Debug\net6.0\PM.DAL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.csproj.CopyComplete
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\refint\PM.BLL.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\PM.BLL.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.BLL\obj\Debug\net6.0\ref\PM.BLL.dll

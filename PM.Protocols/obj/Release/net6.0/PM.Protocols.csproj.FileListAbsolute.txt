@@ -1,0 +1,12 @@
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.deps.json
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\bin\Release\net6.0\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.csproj.AssemblyReference.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.AssemblyInfoInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.AssemblyInfo.cs
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.csproj.CoreCompileInputs.cache
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\refint\PM.Protocols.dll
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\PM.Protocols.pdb
+C:\Users\lenas\Desktop\Новая папка (2)\PM.1MM\PM.Protocols\obj\Release\net6.0\ref\PM.Protocols.dll

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+    <OutputType>Library</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PM.BLL\PM.BLL.csproj" />
+    <ProjectReference Include="..\PM.DAL\PM.DAL.csproj" />
+    <ProjectReference Include="..\PM.Formats\PM.Formats.csproj" />
+    <ProjectReference Include="..\PM.Protocols\PM.Protocols.csproj" />
+  </ItemGroup>
+
+</Project>

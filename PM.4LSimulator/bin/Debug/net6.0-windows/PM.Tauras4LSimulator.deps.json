@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PM.Tauras4LSimulator/1.0.0": {
+        "dependencies": {
+          "PM.Protocols": "1.0.0"
+        },
+        "runtime": {
+          "PM.Tauras4LSimulator.dll": {}
+        }
+      },
+      "PM.Protocols/1.0.0": {
+        "runtime": {
+          "PM.Protocols.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PM.Tauras4LSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PM.Protocols/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

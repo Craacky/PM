@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="PM.Views.MainView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             
+             xmlns:controls="clr-namespace:PM.Controls"  
+             xmlns:viewmodels="clr-namespace:PM.ViewModels"
+
+             mc:Ignorable="d"
+             d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../Styles/TextBlock.xaml"/>
+                <ResourceDictionary Source="../../Styles/Border.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Border Style="{StaticResource ViewBorderStyle}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0"
+                       Text="Главная"
+                       Style="{StaticResource HeaderTextBlockStyle}"/>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.2*"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="0.7*"/>
+                    <RowDefinition/>    
+                </Grid.RowDefinitions>
+
+                <controls:DevicesControl Grid.Row="0" DataContext="{Binding DeviceService}"/>
+                <controls:CurrentReportTaskControl Grid.Row="1"  DataContext="{Binding ReportTaskService.CurrentReportTask}"/>
+
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="1.2*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <controls:ProductStatisticControl Grid.Column="0" VerticalAlignment="Top"/>
+                    <controls:BoxStatisticControl Grid.Column="1"  VerticalAlignment="Top"/>
+                    <controls:PalletStatisticControl Grid.Column="2"  VerticalAlignment="Top"/>
+                    <controls:CurrentPalletStatisticControl Grid.Column="3"  VerticalAlignment="Top"/>
+                    <controls:ButtonsPallet Grid.Column="4"  VerticalAlignment="Top"/>
+                </Grid>
+            </Grid>
+
+            <controls:ReadCameraResultTableControl Grid.Row="3"/>
+        </Grid>
+    </Border>
+</UserControl>

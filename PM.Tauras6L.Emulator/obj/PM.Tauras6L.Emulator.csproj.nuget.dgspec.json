@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {}
+    "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj": {
+    "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,20 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -78,17 +69,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {
+    "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
         "projectName": "PM.Tauras6L.Emulator",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.Tauras6L.Emulator\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,14 +91,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj"
+              "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -133,24 +129,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

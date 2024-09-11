@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>PM</authors>
     <description>Package Description</description>
-    <repository type="git" commit="4917c301691abf8dbb571b109088efb71170c734" />
+    <repository type="git" commit="89d4d4ad6111e1748d150474365cdba7ecea57d3" />
     <dependencies>
       <group targetFramework="net6.0-windows7.0">
         <dependency id="PM.BLL" version="1.0.0" exclude="Build,Analyzers" />
@@ -22,6 +22,6 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="C:\Projects\PM.1MM\PM\bin\Release\net6.0-windows\PM.dll" target="lib\net6.0-windows7.0\PM.dll" />
+    <file src="C:\Projects\PM\PM\bin\Release\net6.0-windows\PM.dll" target="lib\net6.0-windows7.0\PM.dll" />
   </files>
 </package>

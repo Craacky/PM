@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\PM.1MM\\PM.Tauras4L\\PM.Tauras4L.csproj": {}
+    "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\PM.1MM\\PM.BLL\\PM.BLL.csproj": {
+    "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.BLL\\PM.BLL.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
         "projectName": "PM.BLL",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.BLL\\PM.BLL.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.BLL\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj"
+              "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
               }
             }
           }
@@ -59,20 +64,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -82,17 +73,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj": {
+    "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "projectName": "PM.DAL",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.DAL\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,6 +95,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -143,20 +139,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -166,17 +148,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj": {
+    "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
         "projectName": "PM.Formats",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.Formats\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Formats\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,6 +170,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -223,20 +210,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -246,17 +219,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj": {
+    "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -264,6 +241,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -297,20 +275,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -320,17 +284,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM.Tauras4L\\PM.Tauras4L.csproj": {
+    "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM.Tauras4L\\PM.Tauras4L.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
         "projectName": "PM.Tauras4L",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM.Tauras4L\\PM.Tauras4L.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM.Tauras4L\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Tauras4L\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -338,14 +306,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Projects\\PM.1MM\\PM\\PM.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM\\PM.csproj"
+              "C:\\Projects\\PM\\PM\\PM.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM\\PM.csproj"
               }
             }
           }
@@ -381,24 +350,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -411,17 +362,21 @@
         }
       }
     },
-    "C:\\Projects\\PM.1MM\\PM\\PM.csproj": {
+    "C:\\Projects\\PM\\PM\\PM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM.1MM\\PM\\PM.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM\\PM.csproj",
         "projectName": "PM",
-        "projectPath": "C:\\Projects\\PM.1MM\\PM\\PM.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM\\PM.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM.1MM\\PM\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -429,23 +384,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Projects\\PM.1MM\\PM.BLL\\PM.BLL.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.BLL\\PM.BLL.csproj"
+              "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj"
               },
-              "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.DAL\\PM.DAL.csproj"
+              "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
               },
-              "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.Formats\\PM.Formats.csproj"
+              "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj"
               },
-              "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "C:\\Projects\\PM.1MM\\PM.Protocols\\PM.Protocols.csproj"
+              "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -481,20 +437,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -23,3 +23,16 @@ C:\Projects\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.dll
 C:\Projects\PM.1MM\PM.DAL\obj\Release\net6.0\refint\PM.DAL.dll
 C:\Projects\PM.1MM\PM.DAL\obj\Release\net6.0\PM.DAL.pdb
 C:\Projects\PM.1MM\PM.DAL\obj\Release\net6.0\ref\PM.DAL.dll
+C:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.deps.json
+C:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.dll
+C:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.pdb
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.AssemblyReference.cache
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfoInputs.cache
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfo.cs
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.sourcelink.json
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.dll
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\refint\PM.DAL.dll
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.pdb
+C:\Projects\PM\PM.DAL\obj\Release\net6.0\ref\PM.DAL.dll

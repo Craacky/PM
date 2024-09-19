@@ -1,0 +1,16 @@
+C:\Users\cbxjy\Projects\PM\PM.BLL\bin\x64\Release\net6.0\PM.BLL.deps.json
+C:\Users\cbxjy\Projects\PM\PM.BLL\bin\x64\Release\net6.0\PM.BLL.dll
+C:\Users\cbxjy\Projects\PM\PM.BLL\bin\x64\Release\net6.0\PM.BLL.pdb
+C:\Users\cbxjy\Projects\PM\PM.BLL\bin\x64\Release\net6.0\PM.DAL.dll
+C:\Users\cbxjy\Projects\PM\PM.BLL\bin\x64\Release\net6.0\PM.DAL.pdb
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.csproj.AssemblyReference.cache
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.AssemblyInfoInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.AssemblyInfo.cs
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.sourcelink.json
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.csproj.Up2Date
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.dll
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\refint\PM.BLL.dll
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\PM.BLL.pdb
+C:\Users\cbxjy\Projects\PM\PM.BLL\obj\x64\Release\net6.0\ref\PM.BLL.dll

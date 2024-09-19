@@ -1,0 +1,13 @@
+C:\Users\cbxjy\Projects\PM\PM.Formats\bin\x64\Release\net6.0\PM.Formats.deps.json
+C:\Users\cbxjy\Projects\PM\PM.Formats\bin\x64\Release\net6.0\PM.Formats.dll
+C:\Users\cbxjy\Projects\PM\PM.Formats\bin\x64\Release\net6.0\PM.Formats.pdb
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.csproj.AssemblyReference.cache
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.AssemblyInfoInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.AssemblyInfo.cs
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.csproj.CoreCompileInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.sourcelink.json
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.dll
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\refint\PM.Formats.dll
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\PM.Formats.pdb
+C:\Users\cbxjy\Projects\PM\PM.Formats\obj\x64\Release\net6.0\ref\PM.Formats.dll

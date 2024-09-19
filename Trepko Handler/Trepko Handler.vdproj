@@ -50,6 +50,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -74,6 +82,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -194,7 +210,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:TrepkoHandler"
         "ProductCode" = "8:{F6A1F766-DE3C-40F1-9C11-E455D7FE82A7}"
-        "PackageCode" = "8:{F343A935-A8B6-4ACC-BE69-0036A53C053F}"
+        "PackageCode" = "8:{028ACB3C-530D-4747-B3D3-363EEC89C8CA}"
         "UpgradeCode" = "8:{8BB1B4DB-D09F-425F-9F96-089E10820944}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -207,7 +223,7 @@
         "ARPHELPLINK" = "8:"
         "Title" = "8:TrepkoHandler"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Craacky"
+        "ARPCONTACT" = "8:BSTU.tech"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"

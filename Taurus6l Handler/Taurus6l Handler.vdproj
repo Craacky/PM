@@ -15,13 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_169E5F776F4442AD9AD74C3F0146C5B5"
+        "MsmKey" = "8:_AC94CD5BE48D4E9EA8AEBD6062EE524D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_884CF163AF4D4FE89AF8D5C6E8577F8E"
+        "MsmKey" = "8:_BD598885FB2B4F0FB1C994C34EE58CCB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -43,6 +43,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -59,6 +75,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -76,14 +108,24 @@
         {
             "LaunchCondition"
             {
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_98D1BA193D9C4304AF5A089CB4A467C5"
+                {
+                "Name" = "8:.NET Core"
+                "Message" = "8:[VSDNETCOREMSG]"
+                "AllowLaterVersions" = "11:FALSE"
+                "InstallUrl" = "8:https://dotnet.microsoft.com/download/dotnet-core/[NetCoreVerMajorDotMinor]"
+                "IsNETCore" = "11:TRUE"
+                "Architecture" = "2:0"
+                "Runtime" = "2:0"
+                }
             }
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_884CF163AF4D4FE89AF8D5C6E8577F8E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD598885FB2B4F0FB1C994C34EE58CCB"
             {
-            "SourcePath" = "8:C:\\Users\\cbxjy\\Downloads\\icons.ico"
-            "TargetName" = "8:icons.ico"
+            "SourcePath" = "8:..\\Resources\\Taurus6l.ico"
+            "TargetName" = "8:Taurus6l.ico"
             "Tag" = "8:"
             "Folder" = "8:_EE3CCB67EB7D4C5E8A01A13FA2BDB07A"
             "Condition" = "8:"
@@ -168,7 +210,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Taurus6l Handler"
         "ProductCode" = "8:{CA22B727-A465-4DF5-9BBF-AD52D75CB8AC}"
-        "PackageCode" = "8:{C841E9CB-18B0-44C9-B149-0C40230D045B}"
+        "PackageCode" = "8:{C230A75D-9930-46EA-8E3F-A9E5C3A7E0C2}"
         "UpgradeCode" = "8:{477AB370-B0FB-43BF-8060-016E5D339A80}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -288,7 +330,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D554EC6ECA364F06ACED4F44016AE424"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_87D50BBFEBCD44B5B13D039756288DE4"
             {
             "Name" = "8:Taurus6l Handler"
             "Arguments" = "8:"
@@ -296,24 +338,24 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_169E5F776F4442AD9AD74C3F0146C5B5"
-            "Folder" = "8:_A3BCA8A667E94B8DBFC78F63103034AF"
-            "WorkingFolder" = "8:_EE3CCB67EB7D4C5E8A01A13FA2BDB07A"
-            "Icon" = "8:_884CF163AF4D4FE89AF8D5C6E8577F8E"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DEB1D3D0F3534FEE8AD1961DDDECE57D"
-            {
-            "Name" = "8:Taurus6l Handler"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_169E5F776F4442AD9AD74C3F0146C5B5"
+            "Target" = "8:_AC94CD5BE48D4E9EA8AEBD6062EE524D"
             "Folder" = "8:_A66672DFA05F491599B8FE0E43B6E989"
             "WorkingFolder" = "8:_EE3CCB67EB7D4C5E8A01A13FA2BDB07A"
-            "Icon" = "8:_884CF163AF4D4FE89AF8D5C6E8577F8E"
+            "Icon" = "8:_BD598885FB2B4F0FB1C994C34EE58CCB"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9BDFE00F464C41648F47040AFDFD0280"
+            {
+            "Name" = "8:Taurus6l Handler"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_AC94CD5BE48D4E9EA8AEBD6062EE524D"
+            "Folder" = "8:_A3BCA8A667E94B8DBFC78F63103034AF"
+            "WorkingFolder" = "8:_EE3CCB67EB7D4C5E8A01A13FA2BDB07A"
+            "Icon" = "8:_BD598885FB2B4F0FB1C994C34EE58CCB"
             "Feature" = "8:"
             }
         }
@@ -715,7 +757,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_169E5F776F4442AD9AD74C3F0146C5B5"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AC94CD5BE48D4E9EA8AEBD6062EE524D"
             {
             "SourcePath" = "8:..\\PM.Tauras6L\\obj\\Release\\net6.0-windows\\apphost.exe"
             "TargetName" = "8:"

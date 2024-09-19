@@ -5,14 +5,14 @@
     <version>1.0.0</version>
     <authors>PM.Formats</authors>
     <description>Package Description</description>
-    <repository type="git" commit="89d4d4ad6111e1748d150474365cdba7ecea57d3" />
+    <repository type="git" commit="ef254726b23d6b62b614493504c1bd1ca23fec9a" />
     <dependencies>
       <group targetFramework="net6.0">
-        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.dll" target="lib\net6.0\PM.Formats.dll" />
+    <file src="C:\Users\cbxjy\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.dll" target="lib\net6.0\PM.Formats.dll" />
   </files>
 </package>

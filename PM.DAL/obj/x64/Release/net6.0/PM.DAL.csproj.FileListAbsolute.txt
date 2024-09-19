@@ -1,0 +1,13 @@
+C:\Users\cbxjy\Projects\PM\PM.DAL\bin\x64\Release\net6.0\PM.DAL.deps.json
+C:\Users\cbxjy\Projects\PM\PM.DAL\bin\x64\Release\net6.0\PM.DAL.dll
+C:\Users\cbxjy\Projects\PM\PM.DAL\bin\x64\Release\net6.0\PM.DAL.pdb
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.csproj.AssemblyReference.cache
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.AssemblyInfoInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.AssemblyInfo.cs
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.sourcelink.json
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.dll
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\refint\PM.DAL.dll
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\PM.DAL.pdb
+C:\Users\cbxjy\Projects\PM\PM.DAL\obj\x64\Release\net6.0\ref\PM.DAL.dll

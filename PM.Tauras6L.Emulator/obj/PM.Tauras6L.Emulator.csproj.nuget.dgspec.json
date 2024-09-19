@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {}
+    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM\\PM.Protocols\\obj\\",
+        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -65,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {
+    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
         "projectName": "PM.Tauras6L.Emulator",
-        "projectPath": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PM\\PM.Tauras6L.Emulator\\obj\\",
+        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,15 +91,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+              "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -112,8 +111,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -137,7 +137,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
         }
       }
     }

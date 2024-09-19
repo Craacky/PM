@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PM.Mixter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d4d4ad6111e1748d150474365cdba7ecea57d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef254726b23d6b62b614493504c1bd1ca23fec9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PM.Mixter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PM.Mixter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

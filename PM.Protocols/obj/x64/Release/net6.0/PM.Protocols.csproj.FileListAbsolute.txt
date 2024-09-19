@@ -1,0 +1,12 @@
+C:\Users\cbxjy\Projects\PM\PM.Protocols\bin\x64\Release\net6.0\PM.Protocols.deps.json
+C:\Users\cbxjy\Projects\PM\PM.Protocols\bin\x64\Release\net6.0\PM.Protocols.dll
+C:\Users\cbxjy\Projects\PM\PM.Protocols\bin\x64\Release\net6.0\PM.Protocols.pdb
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.AssemblyInfoInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.AssemblyInfo.cs
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.csproj.CoreCompileInputs.cache
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.sourcelink.json
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.dll
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\refint\PM.Protocols.dll
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\PM.Protocols.pdb
+C:\Users\cbxjy\Projects\PM\PM.Protocols\obj\x64\Release\net6.0\ref\PM.Protocols.dll

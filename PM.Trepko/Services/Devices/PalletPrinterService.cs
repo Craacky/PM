@@ -84,7 +84,7 @@ namespace PM.Trepko.Services.Devices
                     attributes[0].Value.Replace("\"", "\\[\"]")
                 );
                 patternTask = patternTask.Replace("<STB>", attributes[7].Value);
-                patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
+                /*patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
 
                 patternTask = patternTask.Replace("<BRUTTO>", attributes[9].Value);
                 patternTask = patternTask.Replace("<NETTOP>", attributes[13].Value);
@@ -119,7 +119,10 @@ namespace PM.Trepko.Services.Devices
                 );
                 patternTask = patternTask.Replace(
                     "<ITEMS>",
-                    Convert.ToString(ReportTaskService.CurrentReportTask.CountBoxInPallet)
+                    Convert.ToString(
+                        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
+                            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
+                    )
                 );
                 patternTask = patternTask.Replace(
                     "<GTIN>",

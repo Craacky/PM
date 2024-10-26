@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BLkcU8CHdrI=",
+  "dgSpecHash": "qenDSwFUEtk=",
   "success": true,
   "projectFilePath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,10 @@
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\cbxjy\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\cbxjy\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
   ],
   "logs": [
     {
@@ -52,6 +55,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net6.0"
       ]

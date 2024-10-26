@@ -1992,6 +1992,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -2008,6 +2022,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net6.0"
       ]

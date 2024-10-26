@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PM.Formats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef254726b23d6b62b614493504c1bd1ca23fec9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c378b10b80e1b5a50dbfb24f7cd15fc2458c23")]
 [assembly: System.Reflection.AssemblyProductAttribute("PM.Formats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PM.Formats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

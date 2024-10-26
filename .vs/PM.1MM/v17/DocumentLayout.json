@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cbxjy\\Projects\\PM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\devices\\productmastercameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\devices\\productmastercameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\boxprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\boxprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\productslavecameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\productslavecameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\SettingsService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Tauras6L\\Services\\SettingsService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:06:08.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PalletPrinterService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeToolTip": "PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:03:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductMasterCameraService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
+              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
+              "RelativeToolTip": "PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:03:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoxPrinterService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:29:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalletPrinterService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAFYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:03:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductSlaveCameraService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:29:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\SettingsService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\SettingsService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:35:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\DeviceService.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:35:33.391Z"
             }
           ]
         }

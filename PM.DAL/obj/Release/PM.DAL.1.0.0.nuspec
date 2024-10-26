@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>PM.DAL</authors>
     <description>Package Description</description>
-    <repository type="git" commit="ef254726b23d6b62b614493504c1bd1ca23fec9a" />
+    <repository type="git" commit="07c378b10b80e1b5a50dbfb24f7cd15fc2458c23" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Microsoft.EntityFrameworkCore" version="6.0.6" exclude="Build,Analyzers" />

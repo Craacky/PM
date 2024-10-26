@@ -70,7 +70,7 @@ namespace PM.Trepko.Services
                 BoxPrinter = new DeviceSettings()
                 {
                     Name = "Принтер этикетки короба",
-                    Ip = "10.162.0.6",
+                    Ip = "172.25.40.7",
                     Port = 9100,
                     IsUsed = false,
                     Path = ""
@@ -79,7 +79,7 @@ namespace PM.Trepko.Services
                 PalletPrinter = new DeviceSettings()
                 {
                     Name = "Принтер этикетки паллеты",
-                    Ip = "172.25.40.6",
+                    Ip = "172.25.40.7",
                     Port = 9100,
                     IsUsed = false,
                     Path = ""

@@ -35,3 +35,16 @@ C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.dll
 C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\refint\PM.DAL.dll
 C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\PM.DAL.pdb
 C:\Projects\PM.1MM\PM.DAL\obj\Debug\net6.0\ref\PM.DAL.dll
+D:\Projects\PM\PM.DAL\bin\Debug\net6.0\PM.DAL.deps.json
+D:\Projects\PM\PM.DAL\bin\Debug\net6.0\PM.DAL.dll
+D:\Projects\PM\PM.DAL\bin\Debug\net6.0\PM.DAL.pdb
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.csproj.AssemblyReference.cache
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.AssemblyInfoInputs.cache
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.AssemblyInfo.cs
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.sourcelink.json
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.dll
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\refint\PM.DAL.dll
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\PM.DAL.pdb
+D:\Projects\PM\PM.DAL\obj\Debug\net6.0\ref\PM.DAL.dll

@@ -39,7 +39,7 @@ namespace PM.Mixter.Services.Devices
             if (Device.IsConnected && _isRun)
             {
                 LoadPatternTask();
-                LoadPatternMessage();
+                //LoadPatternMessage();
             }
         }
 
@@ -84,7 +84,7 @@ namespace PM.Mixter.Services.Devices
                     attributes[0].Value.Replace("\"", "\\[\"]")
                 );
                 patternTask = patternTask.Replace("<STB>", attributes[7].Value);
-                patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
+                /*patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
 
                 patternTask = patternTask.Replace("<BRUTTO>", attributes[9].Value);
                 patternTask = patternTask.Replace("<NETTOP>", attributes[13].Value);
@@ -124,6 +124,7 @@ namespace PM.Mixter.Services.Devices
                             * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
                     )
                 );
+                
                 patternTask = patternTask.Replace(
                     "<GTIN>",
                     ReportTaskService.CurrentReportTask.Nomenclature.Gtin
@@ -133,7 +134,7 @@ namespace PM.Mixter.Services.Devices
             }
         }
 
-        private void LoadPatternMessage()
+       /* private void LoadPatternMessage()
         {
             if (Device.IsConnected && !File.Exists("TSCPrint.txt"))
             {
@@ -148,5 +149,6 @@ namespace PM.Mixter.Services.Devices
                 patternMessage = patternMessage.Replace("<SIZE>", "2");
             }
         }
+       */
     }
 }

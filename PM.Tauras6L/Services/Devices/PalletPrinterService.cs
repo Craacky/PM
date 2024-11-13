@@ -84,7 +84,7 @@ namespace PM.Tauras6L.Services.Devices
                     attributes[0].Value.Replace("\"", "\\[\"]")
                 );
                 patternTask = patternTask.Replace("<STB>", attributes[7].Value);
-                patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
+                /*patternTask = patternTask.Replace("<NETTO>", attributes[8].Value);
 
                 patternTask = patternTask.Replace("<BRUTTO>", attributes[9].Value);
                 patternTask = patternTask.Replace("<NETTOP>", attributes[13].Value);

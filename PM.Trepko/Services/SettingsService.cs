@@ -81,7 +81,7 @@ namespace PM.Trepko.Services
                     Name = "Принтер этикетки паллеты",
                     Ip = "172.25.40.7",
                     Port = 9100,
-                    IsUsed = false,
+                    IsUsed = true,
                     Path = ""
                 },
 

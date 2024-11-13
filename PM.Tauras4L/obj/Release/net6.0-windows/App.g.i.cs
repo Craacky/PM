@@ -47,7 +47,7 @@ namespace PM.Tauras4L {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.10.0")]
         public static void Main() {
             PM.Tauras4L.App app = new PM.Tauras4L.App();
             app.Run();

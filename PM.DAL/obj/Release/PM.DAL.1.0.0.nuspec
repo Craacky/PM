@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>PM.DAL</authors>
     <description>Package Description</description>
-    <repository type="git" commit="07c378b10b80e1b5a50dbfb24f7cd15fc2458c23" />
+    <repository type="git" commit="05dfc1b3c092c520616fc1fbf0db79bdbb661481" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Microsoft.EntityFrameworkCore" version="6.0.6" exclude="Build,Analyzers" />
@@ -14,6 +14,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\cbxjy\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.dll" target="lib\net6.0\PM.DAL.dll" />
+    <file src="D:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.dll" target="lib\net6.0\PM.DAL.dll" />
   </files>
 </package>

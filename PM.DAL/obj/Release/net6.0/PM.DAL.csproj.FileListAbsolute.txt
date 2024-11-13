@@ -49,3 +49,16 @@ C:\Users\cbxjy\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.dll
 C:\Users\cbxjy\Projects\PM\PM.DAL\obj\Release\net6.0\refint\PM.DAL.dll
 C:\Users\cbxjy\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.pdb
 C:\Users\cbxjy\Projects\PM\PM.DAL\obj\Release\net6.0\ref\PM.DAL.dll
+D:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.deps.json
+D:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.dll
+D:\Projects\PM\PM.DAL\bin\Release\net6.0\PM.DAL.pdb
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.AssemblyReference.cache
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfoInputs.cache
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.AssemblyInfo.cs
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.sourcelink.json
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.dll
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\refint\PM.DAL.dll
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\PM.DAL.pdb
+D:\Projects\PM\PM.DAL\obj\Release\net6.0\ref\PM.DAL.dll

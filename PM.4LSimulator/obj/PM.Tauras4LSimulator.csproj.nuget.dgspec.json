@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {}
+    "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {
+    "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
         "projectName": "PM.Tauras4LSimulator",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.4LSimulator\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.4LSimulator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+              "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -46,9 +42,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -64,24 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -90,25 +67,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+    "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,9 +105,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -150,26 +122,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,9 +26,9 @@ namespace PM.Trepko.Services.Devices
             {
                 string messageToSend = patternMessage;
                 messageToSend = messageToSend.Replace(
-                    "<SERIAL>",
-                    $"{ReportTaskService.Statistic.PalletCodes.Count}"
-                );
+                                   "<SERIAL>",
+                                   $"{ReportTaskService.Statistic.PalletCodes.Count}"
+                               );
 
                 _client.SendMessage(messageToSend);
             }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj": {}
+    "D:\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
+    "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
         "projectName": "PM.BLL",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
+              "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
               }
             }
           }
@@ -46,9 +42,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -64,44 +59,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+    "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "projectName": "PM.DAL",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,9 +102,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -153,44 +129,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
+    "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
         "projectName": "PM.Formats",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.Formats\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,9 +172,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -238,44 +195,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+    "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -299,9 +238,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -317,44 +255,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj": {
+    "D:\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj",
         "projectName": "PM.Trepko",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM.Trepko\\PM.Trepko.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM.Trepko\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -368,8 +288,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj"
+              "D:\\Projects\\PM\\PM\\PM.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM\\PM.csproj"
               }
             }
           }
@@ -382,9 +302,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -406,24 +325,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -432,25 +333,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj": {
+    "D:\\Projects\\PM\\PM\\PM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj",
+        "projectUniqueName": "D:\\Projects\\PM\\PM\\PM.csproj",
         "projectName": "PM",
-        "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj",
+        "projectPath": "D:\\Projects\\PM\\PM\\PM.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\obj\\",
+        "outputPath": "D:\\Projects\\PM\\PM\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -464,17 +361,17 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj"
+              "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj"
               },
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
+              "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
               },
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj"
+              "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj"
               },
-              "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+              "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -487,9 +384,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -511,20 +407,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -533,7 +415,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

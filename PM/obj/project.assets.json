@@ -2027,24 +2027,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cbxjy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cbxjy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj",
+      "projectUniqueName": "D:\\Projects\\PM\\PM\\PM.csproj",
       "projectName": "PM",
-      "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\PM.csproj",
+      "projectPath": "D:\\Projects\\PM\\PM\\PM.csproj",
       "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM\\obj\\",
+      "outputPath": "D:\\Projects\\PM\\PM\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2058,17 +2053,17 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
-              "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.BLL\\PM.BLL.csproj"
+            "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj": {
+              "projectPath": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj"
             },
-            "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
-              "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
+            "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+              "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
             },
-            "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
-              "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Formats\\PM.Formats.csproj"
+            "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj": {
+              "projectPath": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj"
             },
-            "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-              "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+            "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+              "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
             }
           }
         }
@@ -2081,9 +2076,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -2105,20 +2099,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -2127,60 +2107,8 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "libraryId": "Microsoft.Data.SqlClient",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "libraryId": "Microsoft.Extensions.Caching.Memory",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "libraryId": "System.Drawing.Common",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  }
 }

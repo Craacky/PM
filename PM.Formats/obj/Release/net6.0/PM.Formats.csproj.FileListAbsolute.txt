@@ -49,3 +49,16 @@ C:\Users\cbxjy\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.dll
 C:\Users\cbxjy\Projects\PM\PM.Formats\obj\Release\net6.0\refint\PM.Formats.dll
 C:\Users\cbxjy\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.pdb
 C:\Users\cbxjy\Projects\PM\PM.Formats\obj\Release\net6.0\ref\PM.Formats.dll
+D:\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.deps.json
+D:\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.dll
+D:\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.pdb
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.csproj.AssemblyReference.cache
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.AssemblyInfoInputs.cache
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.AssemblyInfo.cs
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.csproj.CoreCompileInputs.cache
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.sourcelink.json
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.dll
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\refint\PM.Formats.dll
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\PM.Formats.pdb
+D:\Projects\PM\PM.Formats\obj\Release\net6.0\ref\PM.Formats.dll

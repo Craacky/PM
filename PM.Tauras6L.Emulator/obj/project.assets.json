@@ -27,24 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cbxjy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cbxjy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+      "projectUniqueName": "D:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
       "projectName": "PM.Tauras6L.Emulator",
-      "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
+      "projectPath": "D:\\Projects\\PM\\PM.Tauras6L.Emulator\\PM.Tauras6L.Emulator.csproj",
       "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L.Emulator\\obj\\",
+      "outputPath": "D:\\Projects\\PM\\PM.Tauras6L.Emulator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-              "projectPath": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+            "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+              "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
             }
           }
         }
@@ -72,9 +67,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -90,24 +84,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.33, 6.0.33]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -116,7 +92,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

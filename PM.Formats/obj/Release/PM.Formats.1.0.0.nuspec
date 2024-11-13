@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>PM.Formats</authors>
     <description>Package Description</description>
-    <repository type="git" commit="07c378b10b80e1b5a50dbfb24f7cd15fc2458c23" />
+    <repository type="git" commit="05dfc1b3c092c520616fc1fbf0db79bdbb661481" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\cbxjy\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.dll" target="lib\net6.0\PM.Formats.dll" />
+    <file src="D:\Projects\PM\PM.Formats\bin\Release\net6.0\PM.Formats.dll" target="lib\net6.0\PM.Formats.dll" />
   </files>
 </package>

@@ -1,38 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cbxjy\\Projects\\PM\\",
+  "WorkspaceRootPath": "D:\\Projects\\PM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\windows\\createreporttaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\windows\\createreporttaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationdeleteproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationdeleteproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationdeletepalletview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationdeletepalletview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationdeleteboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationdeleteboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationcheckcodeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationcheckcodeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationaddproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationaddproductview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationaddpalletview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationaddpalletview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\handleaggregation\\handleaggregationaddboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\handleaggregation\\handleaggregationaddboxview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\views\\mainwindow\\reporttasksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\views\\mainwindow\\reporttasksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\services\\reporttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\services\\reporttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\controls\\reporttasks\\reporttaskstablecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\controls\\reporttasks\\reporttaskstablecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|d:\\projects\\pm\\pm\\pm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82320B10-A6EE-4372-A0AB-584356495265}|PM\\PM.csproj|solutionrelative:pm\\pm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|d:\\projects\\pm\\pm.mixter\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|solutionrelative:pm.mixter\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099D01F5-FCE7-4ECF-B342-190A13C3E881}|PM.Tauras4L\\PM.Tauras4L.csproj|d:\\projects\\pm\\pm.tauras4l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099D01F5-FCE7-4ECF-B342-190A13C3E881}|PM.Tauras4L\\PM.Tauras4L.csproj|solutionrelative:pm.tauras4l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|d:\\projects\\pm\\pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|d:\\projects\\pm\\pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|d:\\projects\\pm\\pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.tauras6l\\services\\devices\\productmastercameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\devices\\productmastercameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\boxprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\boxprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|c:\\users\\cbxjy\\projects\\pm\\pm.trepko\\services\\devices\\productslavecameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\devices\\productslavecameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +78,226 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\SettingsService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
-              "RelativeToolTip": "PM.Tauras6L\\Services\\SettingsService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:06:08.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PalletPrinterService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
-              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
-              "RelativeToolTip": "PM.Tauras6L\\Services\\Devices\\PalletPrinterService.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:03:35.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductMasterCameraService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
-              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
-              "RelativeToolTip": "PM.Tauras6L\\Services\\Devices\\ProductMasterCameraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:03:33.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BoxPrinterService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\BoxPrinterService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:29:54.63Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PalletPrinterService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\PalletPrinterService.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAFYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:03:11.083Z",
+              "Title": "CreateReportTaskWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Windows\\CreateReportTaskWindow.xaml",
+              "RelativeDocumentMoniker": "PM\\Windows\\CreateReportTaskWindow.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Windows\\CreateReportTaskWindow.xaml",
+              "RelativeToolTip": "PM\\Windows\\CreateReportTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:29.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductSlaveCameraService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\Devices\\ProductSlaveCameraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:29:45.882Z"
+              "DocumentIndex": 1,
+              "Title": "HandleAggregationDeleteProductView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeleteProductView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationDeleteProductView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeleteProductView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationDeleteProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:25.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\SettingsService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\SettingsService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:35:41.873Z",
+              "DocumentIndex": 2,
+              "Title": "HandleAggregationDeletePalletView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeletePalletView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationDeletePalletView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeletePalletView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationDeletePalletView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:23.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeviceService.cs",
-              "DocumentMoniker": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\DeviceService.cs",
-              "ToolTip": "C:\\Users\\cbxjy\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\DeviceService.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HandleAggregationDeleteBoxView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeleteBoxView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationDeleteBoxView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationDeleteBoxView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationDeleteBoxView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HandleAggregationCheckCodeView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationCheckCodeView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationCheckCodeView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationCheckCodeView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationCheckCodeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandleAggregationAddProductView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddProductView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationAddProductView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddProductView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationAddProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandleAggregationAddPalletView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddPalletView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationAddPalletView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddPalletView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationAddPalletView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandleAggregationAddBoxView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddBoxView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\HandleAggregation\\HandleAggregationAddBoxView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\HandleAggregation\\HandleAggregationAddBoxView.xaml",
+              "RelativeToolTip": "PM\\Views\\HandleAggregation\\HandleAggregationAddBoxView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportTasksView.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Views\\MainWindow\\ReportTasksView.xaml",
+              "RelativeDocumentMoniker": "PM\\Views\\MainWindow\\ReportTasksView.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Views\\MainWindow\\ReportTasksView.xaml",
+              "RelativeToolTip": "PM\\Views\\MainWindow\\ReportTasksView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:14:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportTaskService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Services\\ReportTaskService.cs",
+              "RelativeDocumentMoniker": "PM\\Services\\ReportTaskService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Services\\ReportTaskService.cs",
+              "RelativeToolTip": "PM\\Services\\ReportTaskService.cs",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:35:33.391Z"
+              "WhenOpened": "2024-11-13T06:13:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportTasksTableControl.xaml",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\Controls\\ReportTasks\\ReportTasksTableControl.xaml",
+              "RelativeDocumentMoniker": "PM\\Controls\\ReportTasks\\ReportTasksTableControl.xaml",
+              "ToolTip": "D:\\Projects\\PM\\PM\\Controls\\ReportTasks\\ReportTasksTableControl.xaml",
+              "RelativeToolTip": "PM\\Controls\\ReportTasks\\ReportTasksTableControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T06:12:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PM",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM\\PM.csproj",
+              "RelativeDocumentMoniker": "PM\\PM.csproj",
+              "ToolTip": "D:\\Projects\\PM\\PM\\PM.csproj",
+              "RelativeToolTip": "PM\\PM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T06:12:37.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Mixter\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Mixter\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:11:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM.Tauras4L\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Tauras4L\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM.Tauras4L\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Tauras4L\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:10:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Tauras6L\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:10:38.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:10:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "D:\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "PM.Trepko\\Services\\DeviceService.cs",
+              "ToolTip": "D:\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
+              "RelativeToolTip": "PM.Trepko\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAADkBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:10:07.594Z",
+              "EditorCaption": ""
             }
           ]
         }

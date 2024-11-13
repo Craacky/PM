@@ -70,7 +70,7 @@ namespace PM.Mixter.Services
                 BoxPrinter = new DeviceSettings()
                 {
                     Name = "Принтер этикетки короба",
-                    Ip = "10.162.0.6",
+                    Ip = "172.25.4.244",
                     Port = 9100,
                     IsUsed = false,
                     Path = ""
@@ -81,7 +81,7 @@ namespace PM.Mixter.Services
                     Name = "Принтер этикетки паллеты",
                     Ip = "172.25.4.244",
                     Port = 9100,
-                    IsUsed = false,
+                    IsUsed = true,
                     Path = ""
                 },
 

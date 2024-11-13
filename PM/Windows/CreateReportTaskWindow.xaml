@@ -88,13 +88,14 @@
                                     PreviewTextInput="DatePicker_PreviewTextInput"/>
                             </StackPanel>
 
-                            <StackPanel>
-                                <TextBlock Text="Cрок годности (в днях)"/>
-                                    <TextBox Text="{Binding ReportTask.ExpiryDateInDays, UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"
-                                             IsReadOnly="True"/>
-                            </StackPanel>
+                                <StackPanel>
+                                    <TextBlock Text="Cрок годности"/>
+                                    <DatePicker SelectedDate="{Binding ReportTask.ExpiryDate,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" 
+                    PreviewTextInput="DatePicker_PreviewTextInput"/>
+                                    
+                                </StackPanel>
 
-                            <StackPanel>
+                                <StackPanel>
                                 <TextBlock Text="Введите количества продукта в коробе"/>
                                 <TextBox Text="{Binding ReportTask.CountProductInBox, UpdateSourceTrigger=PropertyChanged}" 
                                          PreviewTextInput="TextBox_PreviewTextInput"

@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>PM.BLL</authors>
     <description>Package Description</description>
-    <repository type="git" commit="07c378b10b80e1b5a50dbfb24f7cd15fc2458c23" />
+    <repository type="git" commit="05dfc1b3c092c520616fc1fbf0db79bdbb661481" />
     <dependencies>
       <group targetFramework="net6.0">
         <dependency id="PM.DAL" version="1.0.0" exclude="Build,Analyzers" />
@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\cbxjy\Projects\PM\PM.BLL\bin\Release\net6.0\PM.BLL.dll" target="lib\net6.0\PM.BLL.dll" />
+    <file src="D:\Projects\PM\PM.BLL\bin\Release\net6.0\PM.BLL.dll" target="lib\net6.0\PM.BLL.dll" />
   </files>
 </package>

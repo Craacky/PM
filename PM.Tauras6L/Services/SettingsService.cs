@@ -81,7 +81,7 @@ namespace PM.Tauras6L.Services
                     Name = "Принтер этикетки паллеты",
                     Ip = "10.162.0.7",
                     Port = 9100,
-                    IsUsed = false,
+                    IsUsed = true,
                     Path = ""
                 },
 

@@ -106,7 +106,7 @@ namespace PM.Trepko.Services
         }
 
         private void ProductMasterCameraService_MessageReceived(SocketClient client, DateTime datetime, string message)
-            {
+        {
             Task.Run(() =>
             {
                 string startPattern = "<start>";
@@ -320,5 +320,3 @@ namespace PM.Trepko.Services
         }
     }
 }
-
-

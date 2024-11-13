@@ -34,3 +34,15 @@ C:\Projects\PM.1MM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.dll
 C:\Projects\PM.1MM\PM.Protocols\obj\Debug\net6.0\refint\PM.Protocols.dll
 C:\Projects\PM.1MM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.pdb
 C:\Projects\PM.1MM\PM.Protocols\obj\Debug\net6.0\ref\PM.Protocols.dll
+D:\Projects\PM\PM.Protocols\bin\Debug\net6.0\PM.Protocols.deps.json
+D:\Projects\PM\PM.Protocols\bin\Debug\net6.0\PM.Protocols.dll
+D:\Projects\PM\PM.Protocols\bin\Debug\net6.0\PM.Protocols.pdb
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.AssemblyInfoInputs.cache
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.AssemblyInfo.cs
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.csproj.CoreCompileInputs.cache
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.sourcelink.json
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.dll
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\refint\PM.Protocols.dll
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\PM.Protocols.pdb
+D:\Projects\PM\PM.Protocols\obj\Debug\net6.0\ref\PM.Protocols.dll

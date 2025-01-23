@@ -2181,11 +2181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
+      "projectUniqueName": "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
       "projectName": "PM.Tauras4L",
-      "projectPath": "D:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
+      "projectPath": "C:\\Projects\\PM\\PM.Tauras4L\\PM.Tauras4L.csproj",
       "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PM\\PM.Tauras4L\\obj\\",
+      "outputPath": "C:\\Projects\\PM\\PM.Tauras4L\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2202,8 +2202,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Projects\\PM\\PM\\PM.csproj": {
-              "projectPath": "D:\\Projects\\PM\\PM\\PM.csproj"
+            "C:\\Projects\\PM\\PM\\PM.csproj": {
+              "projectPath": "C:\\Projects\\PM\\PM\\PM.csproj"
             }
           }
         }
@@ -2239,6 +2239,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

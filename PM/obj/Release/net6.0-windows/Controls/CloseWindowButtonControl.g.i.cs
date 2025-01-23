@@ -53,7 +53,7 @@ namespace PM.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PM;component/controls/closewindowbuttoncontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PM;V1.0.0.0;component/controls/closewindowbuttoncontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\CloseWindowButtonControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

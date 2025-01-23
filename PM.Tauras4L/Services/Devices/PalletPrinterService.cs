@@ -26,6 +26,7 @@ namespace PM.Tauras4L.Services.Devices
 
         public override void PrintCode()
         {
+            LoadPatternTask();
             if (Device.IsConnected && _isRun)
             {
                 string messageToSend = patternMessage;
@@ -121,13 +122,14 @@ namespace PM.Tauras4L.Services.Devices
                     "<ECODEDATE>",
                     ReportTaskService.CurrentReportTask.ExpiryDate.ToString("yyMMdd")
                 );
-                patternTask = patternTask.Replace(
-                    "<ITEMS>",
-                    Convert.ToString(
-                        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
-                            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
-                    )
-                );
+                //patternTask = patternTask.Replace(
+                //    "<ITEMS>",
+                //    Convert.ToString(
+                //        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
+                //            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
+                //    )
+                //);
+                patternTask = patternTask.Replace("<ITEMS>", (ReportTaskService.Statistic.CountBoxInCurrentPallet * 12).ToString());
                 patternTask = patternTask.Replace(
                     "<GTIN>",
                     ReportTaskService.CurrentReportTask.Nomenclature.Gtin

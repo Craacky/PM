@@ -79,7 +79,7 @@ namespace PM.Mixter.Services
                 PalletPrinter = new DeviceSettings()
                 {
                     Name = "Принтер этикетки паллеты",
-                    Ip = "172.25.4.244",
+                    Ip = "172.25.4.44",
                     Port = 9100,
                     IsUsed = true,
                     Path = ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {}
+    "C:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {
+    "C:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
         "projectName": "PM.Tauras4LSimulator",
-        "projectPath": "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\PM\\PM.4LSimulator\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.4LSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
-                "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
+              "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+                "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj"
               }
             }
           }
@@ -59,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -71,14 +89,14 @@
         }
       }
     },
-    "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
+    "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "projectName": "PM.Protocols",
-        "projectPath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\PM\\PM.Protocols\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.Protocols\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,6 +140,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

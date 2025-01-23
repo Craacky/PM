@@ -93,7 +93,7 @@ namespace PM.Tauras6L.Services
                     IsAuthentification = true,
                     Login = "sa",
                     Password = "!1qazxcv",
-                    IsUsed = false,
+                    IsUsed = true,
                 }
             };
         }

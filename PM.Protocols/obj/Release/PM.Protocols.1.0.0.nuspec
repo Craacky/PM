@@ -5,12 +5,12 @@
     <version>1.0.0</version>
     <authors>PM.Protocols</authors>
     <description>Package Description</description>
-    <repository type="git" commit="05dfc1b3c092c520616fc1fbf0db79bdbb661481" />
+    <repository type="git" commit="818bf48565f222962985251263d4cdf45f929c82" />
     <dependencies>
       <group targetFramework="net6.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\Projects\PM\PM.Protocols\bin\Release\net6.0\PM.Protocols.dll" target="lib\net6.0\PM.Protocols.dll" />
+    <file src="C:\Projects\PM\PM.Protocols\bin\Release\net6.0\PM.Protocols.dll" target="lib\net6.0\PM.Protocols.dll" />
   </files>
 </package>

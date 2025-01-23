@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {}
+    "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+    "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
+        "projectUniqueName": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "projectName": "PM.DAL",
-        "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
+        "projectPath": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj",
         "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\PM\\PM.DAL\\obj\\",
+        "outputPath": "C:\\Projects\\PM\\PM.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

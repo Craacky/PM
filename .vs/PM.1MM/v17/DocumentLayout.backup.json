@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\PM\\",
+  "WorkspaceRootPath": "C:\\Projects\\PM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|d:\\projects\\pm\\pm.mixter\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|c:\\projects\\pm\\pm.mixter\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|solutionrelative:pm.mixter\\services\\devices\\palletprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|c:\\projects\\pm\\pm.mixter\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1CEE5E6-4BAB-4A58-BB1A-4DB2F618E45A}|PM.Mixter\\PM.Mixter.csproj|solutionrelative:pm.mixter\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{099D01F5-FCE7-4ECF-B342-190A13C3E881}|PM.Tauras4L\\PM.Tauras4L.csproj|d:\\projects\\pm\\pm.tauras4l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099D01F5-FCE7-4ECF-B342-190A13C3E881}|PM.Tauras4L\\PM.Tauras4L.csproj|solutionrelative:pm.tauras4l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|d:\\projects\\pm\\pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4D8D5A-9802-4710-A5CB-0F64502055EE}|PM.Tauras6L\\PM.Tauras6L.csproj|solutionrelative:pm.tauras6l\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|d:\\projects\\pm\\pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|d:\\projects\\pm\\pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6060CA3D-F4C8-4483-9F6B-6F92AB369CD9}|PM.Trepko\\PM.Trepko.csproj|solutionrelative:pm.trepko\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,67 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "D:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Mixter\\Services\\SettingsService.cs",
-              "ToolTip": "D:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
-              "RelativeToolTip": "PM.Mixter\\Services\\SettingsService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PalletPrinterService.cs",
+              "DocumentMoniker": "C:\\Projects\\PM\\PM.Mixter\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeDocumentMoniker": "PM.Mixter\\Services\\Devices\\PalletPrinterService.cs",
+              "ToolTip": "C:\\Projects\\PM\\PM.Mixter\\Services\\Devices\\PalletPrinterService.cs",
+              "RelativeToolTip": "PM.Mixter\\Services\\Devices\\PalletPrinterService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:11:03.163Z",
+              "WhenOpened": "2024-11-29T08:50:31.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SettingsService.cs",
-              "DocumentMoniker": "D:\\Projects\\PM\\PM.Tauras4L\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Tauras4L\\Services\\SettingsService.cs",
-              "ToolTip": "D:\\Projects\\PM\\PM.Tauras4L\\Services\\SettingsService.cs*",
-              "RelativeToolTip": "PM.Tauras4L\\Services\\SettingsService.cs*",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "PM.Mixter\\Services\\SettingsService.cs",
+              "ToolTip": "C:\\Projects\\PM\\PM.Mixter\\Services\\SettingsService.cs",
+              "RelativeToolTip": "PM.Mixter\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:10:52.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "D:\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Tauras6L\\Services\\SettingsService.cs",
-              "ToolTip": "D:\\Projects\\PM\\PM.Tauras6L\\Services\\SettingsService.cs*",
-              "RelativeToolTip": "PM.Tauras6L\\Services\\SettingsService.cs*",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:10:38.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "D:\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\SettingsService.cs",
-              "ToolTip": "D:\\Projects\\PM\\PM.Trepko\\Services\\SettingsService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\SettingsService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:10:25.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeviceService.cs",
-              "DocumentMoniker": "D:\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
-              "RelativeDocumentMoniker": "PM.Trepko\\Services\\DeviceService.cs",
-              "ToolTip": "D:\\Projects\\PM\\PM.Trepko\\Services\\DeviceService.cs",
-              "RelativeToolTip": "PM.Trepko\\Services\\DeviceService.cs",
-              "ViewState": "AgIAAC8BAAAAAAAAAAAAADkBAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:10:07.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T08:50:17.553Z"
             }
           ]
         }

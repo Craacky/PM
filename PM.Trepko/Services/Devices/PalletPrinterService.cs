@@ -24,6 +24,7 @@ namespace PM.Trepko.Services.Devices
         {
             if (Device.IsConnected && _isRun)
             {
+                LoadPatternTask();
                 string messageToSend = patternMessage;
                 messageToSend = messageToSend.Replace(
                                    "<SERIAL>",
@@ -117,13 +118,14 @@ namespace PM.Trepko.Services.Devices
                     "<ECODEDATE>",
                     ReportTaskService.CurrentReportTask.ExpiryDate.ToString("yyMMdd")
                 );
-                patternTask = patternTask.Replace(
-                    "<ITEMS>",
-                    Convert.ToString(
-                        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
-                            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
-                    )
-                );
+                //patternTask = patternTask.Replace(
+                //    "<ITEMS>",
+                //    Convert.ToString(
+                //        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
+                //            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
+                //    )
+                //);
+                patternTask = patternTask.Replace("<ITEMS>", (ReportTaskService.Statistic.CountBoxInCurrentPallet * 12).ToString());
                 patternTask = patternTask.Replace(
                     "<GTIN>",
                     ReportTaskService.CurrentReportTask.Nomenclature.Gtin

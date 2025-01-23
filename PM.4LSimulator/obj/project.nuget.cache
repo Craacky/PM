@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8D04qzDl7Nk=",
+  "dgSpecHash": "JubhK/zLttw=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\PM\\PM.4LSimulator\\PM.Tauras4LSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

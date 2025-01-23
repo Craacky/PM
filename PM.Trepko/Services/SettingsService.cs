@@ -79,7 +79,9 @@ namespace PM.Trepko.Services
                 PalletPrinter = new DeviceSettings()
                 {
                     Name = "Принтер этикетки паллеты",
-                    Ip = "172.25.40.7",
+                    //Ip = "172.25.40.7",
+                    //Ip = "172.25.4.104",
+                    Ip = "172.25.4.244",
                     Port = 9100,
                     IsUsed = true,
                     Path = ""

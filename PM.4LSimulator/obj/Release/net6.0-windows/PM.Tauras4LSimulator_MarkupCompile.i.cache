@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projects\PM\PM.4LSimulator\obj\Release\net6.0-windows\
+C:\Projects\PM\PM.4LSimulator\obj\Release\net6.0-windows\
 PM._4LSimulator
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-D:\Projects\PM\PM.4LSimulator\App.xaml
+C:\Projects\PM\PM.4LSimulator\App.xaml
 11407045341
 
 5430381283
-195-147386729
+195-1304885008
 MainWindow.xaml;
 
-False
+True
 

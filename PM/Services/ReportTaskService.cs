@@ -92,9 +92,10 @@ namespace PM.Services
         {
             Expression<Func<ReportTask, Nomenclature>> includePredicate = p => p.Nomenclature;
             Expression<Func<Nomenclature, IEnumerable<DAL.Entities.Attribute>>> thenIncludePredicate = b => b.Attributes;
-            IEnumerable<ReportTask> dbAllReportTasks = LocalDBService.ReportTaskDataService.GetAllWithInclude(includePredicate,
-                                                                                                              thenIncludePredicate);
-            IEnumerable<ReportTask> dbReportTasks = LocalDBService.ReportTaskDataService.GetAllWithInclude(rt => rt.Status != "Сохранено",
+            //IEnumerable<ReportTask> dbAllReportTasks = LocalDBService.ReportTaskDataService.GetAllWithInclude(includePredicate,
+            //                                                                                                thenIncludePredicate);
+            IEnumerable<ReportTask> dbAllReportTasks = LocalDBService.ReportTaskDataService.GetAllWithInclude(includePredicate);
+                IEnumerable < ReportTask> dbReportTasks = LocalDBService.ReportTaskDataService.GetAllWithInclude(rt => rt.Status != "Сохранено",
                                                                                                            includePredicate,
                                                                                                            thenIncludePredicate);
             foreach (ReportTask dbReportTask in dbAllReportTasks)

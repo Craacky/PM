@@ -1934,11 +1934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
+      "projectUniqueName": "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
       "projectName": "PM.BLL",
-      "projectPath": "D:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
+      "projectPath": "C:\\Projects\\PM\\PM.BLL\\PM.BLL.csproj",
       "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PM\\PM.BLL\\obj\\",
+      "outputPath": "C:\\Projects\\PM\\PM.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1955,8 +1955,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
-              "projectPath": "D:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
+            "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj": {
+              "projectPath": "C:\\Projects\\PM\\PM.DAL\\PM.DAL.csproj"
             }
           }
         }
@@ -1986,6 +1986,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

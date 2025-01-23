@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r/N+yWMv1bw=",
+  "dgSpecHash": "B2QdJeuww4E=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
+  "projectFilePath": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cbxjy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\cbxjy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }

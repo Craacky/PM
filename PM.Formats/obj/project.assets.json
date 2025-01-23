@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
+      "projectUniqueName": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
       "projectName": "PM.Formats",
-      "projectPath": "D:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
+      "projectPath": "C:\\Projects\\PM\\PM.Formats\\PM.Formats.csproj",
       "packagesPath": "C:\\Users\\cbxjy\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PM\\PM.Formats\\obj\\",
+      "outputPath": "C:\\Projects\\PM\\PM.Formats\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cbxjy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,6 +114,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xix4fdTIo5M=",
+  "dgSpecHash": "wAwmxfjpCno=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PM\\PM.Mixter\\PM.Mixter.csproj",
+  "projectFilePath": "C:\\Projects\\PM\\PM.Mixter\\PM.Mixter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -48,7 +48,11 @@
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\cbxjy\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\cbxjy\\.nuget\\packages\\tinyipc\\3.0.1\\tinyipc.3.0.1.nupkg.sha512"
+    "C:\\Users\\cbxjy\\.nuget\\packages\\tinyipc\\3.0.1\\tinyipc.3.0.1.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }

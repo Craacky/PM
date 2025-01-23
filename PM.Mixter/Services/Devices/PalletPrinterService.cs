@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows;
 using PM.DAL.Entities;
 using PM.Devices;
@@ -20,16 +21,17 @@ namespace PM.Mixter.Services.Devices
         )
             : base(deviceSettings, lineSettings, localDBService, reportTaskService) { }
 
-        public override void PrintCode()
+        public async override void PrintCode()
         {
             if (Device.IsConnected && _isRun)
             {
+                LoadPatternTask();
                 string messageToSend = patternMessage;
                 messageToSend = messageToSend.Replace(
                     "<SERIAL>",
                     $"{ReportTaskService.Statistic.PalletCodes.Count}"
                 );
-
+                await Task.Delay(5000);
                 _client.SendMessage(messageToSend);
             }
         }
@@ -39,7 +41,7 @@ namespace PM.Mixter.Services.Devices
             if (Device.IsConnected && _isRun)
             {
                 LoadPatternTask();
-                //LoadPatternMessage();
+                LoadPatternMessage();
             }
         }
 
@@ -117,14 +119,14 @@ namespace PM.Mixter.Services.Devices
                     "<ECODEDATE>",
                     ReportTaskService.CurrentReportTask.ExpiryDate.ToString("yyMMdd")
                 );
-                patternTask = patternTask.Replace(
-                    "<ITEMS>",
-                    Convert.ToString(
-                        Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
-                            * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
-                    )
-                );
-                
+                /* patternTask = patternTask.Replace(
+                     "<ITEMS>",
+                     Convert.ToString(
+                         Convert.ToInt32(ReportTaskService.CurrentReportTask.CountBoxInPallet)
+                             * Convert.ToInt32(ReportTaskService.CurrentReportTask.CountProductInBox)
+                     )
+                 );*/
+                patternTask = patternTask.Replace("<ITEMS>", (ReportTaskService.Statistic.CountBoxInCurrentPallet * 12).ToString());
                 patternTask = patternTask.Replace(
                     "<GTIN>",
                     ReportTaskService.CurrentReportTask.Nomenclature.Gtin
@@ -134,7 +136,7 @@ namespace PM.Mixter.Services.Devices
             }
         }
 
-       /* private void LoadPatternMessage()
+        private void LoadPatternMessage()
         {
             if (Device.IsConnected && !File.Exists("TSCPrint.txt"))
             {
@@ -149,6 +151,5 @@ namespace PM.Mixter.Services.Devices
                 patternMessage = patternMessage.Replace("<SIZE>", "2");
             }
         }
-       */
     }
 }

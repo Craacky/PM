@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FfOqfLVm9qo=",
+  "dgSpecHash": "88fiec4XMQg=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\PM\\PM.Protocols\\PM.Protocols.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\cbxjy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }
